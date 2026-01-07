@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif, 'Times New Roman', 'Verdana';
+    color: #333333;
+}
+
+body {
+    background-color: #FFEDE0;
+}
+
+.box {
+    background-color: #F3E2B8;
+    padding: 5px;
+    margin: 15px;
+}
+
+.title {
+    padding: 20px 40px; 
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+
+.home {
+    display: block;
+    text-align: center;
+}
